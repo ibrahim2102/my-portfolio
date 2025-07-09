@@ -173,7 +173,7 @@ footer{
 }
 .footer-column{
     width: 50%;
-    text-align: center;
+    /* text-align: center; */
     margin-top: 130px;
 
 }
@@ -221,6 +221,7 @@ footer{
     width: 150px;
     height: 64px;
     padding: 18px 39px;
+    text-align: left;
 
 }
 
