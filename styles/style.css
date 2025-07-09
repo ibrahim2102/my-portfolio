@@ -173,6 +173,7 @@ footer{
 }
 .footer-column{
     width: 50%;
+
 }
 
 .input1{
@@ -182,5 +183,25 @@ footer{
     color: #FFFFFF;
     border: none;
     border-radius: 5px;
-    margin-top: 28px;
+    margin-top: 24px;
 }
+
+.input3{
+    width: 461px;
+    height: 180px;
+    padding: 18px 30px;
+    color: #757575;
+    border: none;
+    border-radius: 5px;
+    margin-top: 24px;
+
+}
+
+.input-btn{
+    margin-top: 24px;
+    width: 150px;
+    height: 64px;
+    padding: 18px 39px;
+
+}
+
