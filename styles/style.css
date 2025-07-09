@@ -167,14 +167,33 @@ main section{
 /* footer styles */
 
 footer{
-    margin: 130px 230px;
+    padding: 130px 230px;
     display: flex;
-    gap: 117px;
+    gap: 100px;
 }
 .footer-column{
     width: 50%;
+    text-align: center;
+    margin-top: 130px;
 
 }
+ .work{
+   padding: 30px;
+   text-align: start;
+ }   
+ .awsome{
+    text-align:start;
+    margin-left: 27px;
+ }
+ .social-icons{
+    padding: 30px;
+    margin-top: 10px;
+    /* gap: 20px; */
+    text-align: start;
+    display: flex;
+    justify-content:flex-start;
+    gap: 24px;
+ }
 
 .input1{
     width:461px;
